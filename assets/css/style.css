@@ -15,10 +15,14 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #37c8e2;
     color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
 }
 
 header h1 {
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 48px;
 }
 
@@ -29,7 +33,7 @@ header h1 {
 header nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    /* float: right; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
@@ -88,3 +92,11 @@ article p {
   }
 
   /* ABOUT ME END */
+
+  /* MAIN START */
+  main {
+    display: flex;
+    max-height: 100%;
+    max-width: 80%;
+}
+
