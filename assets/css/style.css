@@ -47,7 +47,12 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
+/* a {
+    /* color: #ffffff;
+    text-decoration: none; */
+} */
+
+.navElement {
     color: #ffffff;
     text-decoration: none;
 }
