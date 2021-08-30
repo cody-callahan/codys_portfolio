@@ -8,7 +8,7 @@ A website to display my work and provide my contact information. You can use thi
 * CSS
 
 ## Website
-https://lernantino.github.io/codys_portfolio/
+https://cody-callahan.github.io/codys_portfolio/
 
 ## Screenshot of application
 ![image](https://user-images.githubusercontent.com/23085788/131280907-c7e090dc-fbaa-4485-9217-2c407de0f7a4.png)
