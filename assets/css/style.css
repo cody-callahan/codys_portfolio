@@ -94,9 +94,23 @@ article p {
   /* ABOUT ME END */
 
   /* MAIN START */
-  main {
+  .main {
     display: flex;
     max-height: 100%;
     max-width: 80%;
+}
+
+#projectImages {
+    display: flex;
+    /* flex-direction: row; */
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+}
+
+.workImg {
+    width: 33%;
+    height: 15vw;
+    object-fit: cover;
 }
 
